@@ -1,7 +1,22 @@
-# Surftimer-Zones
-Zones for Surftimer-Official by Demented Gaming
+# Surftimer-Official Zones by Demented Gaming
 
-Our zones use 350 speed for all zones unless there is a case where you need to be able to go through the zone with no speed cap.
-If you do not use 350 speed but rather 250/260 speed for start zones etc then you will need to modify the files to suite your server. 
+<h4> Info </h4>
+<ul>
+<li> Our zones use 350 speed for all zones unless there is a case where you need to be able to go through the zone with no speed cap.
+<li> If you do not use 350 speed but rather 250/260 speed for start zones etc then you will need to modify the files to suite your server (I would still recommend you leave stage zones at 350 speed as this gives a smoother player experience)
+</ul>
 
-I do not guarentee that these zones are perfect and that you will not have any issues using them.
+<h4> How to use </h4>
+<ul>
+<li> <b> You will need the zones file as well as the corresponding map tier file </b> 
+<li> If using phpMyAdmin Simply drag and drop the file you wish to use into your database.
+<li> If using another database administration tool/method then you will need to figure out how to import them.
+</ul>
+
+<pr>
+<h4> Guarantees </h4>
+<ul>
+<li> <b>We do not guarantee that the tier of the maps are accurate as a few have been changed as per feedback from our player base.</b>
+<li> <b>We do not guarantee that these zones are perfect and that you will not have any issues using them, as not all of them have been thoroughly tested.</b>
+</ul>
+</pr>
