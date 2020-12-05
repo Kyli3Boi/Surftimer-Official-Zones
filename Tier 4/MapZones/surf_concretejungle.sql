@@ -1,0 +1,18 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_concretejungle', 0, 1, 0, 2695, -14049, 8079, 4233, -13375, 8625, 0, 0, 0, 'Start 0', 'stage1_startzone', 'player', 1, 350),
+('surf_concretejungle', 1, 3, 0, 8071, -5089, 7599, 9097, -3551, 8049, 0, 0, 0, 'Start 0', 'stage2_startzone', 'player', 1, 350),
+('surf_concretejungle', 2, 3, 1, -1145, 4639, 7855, -375, 5665, 8337, 0, 0, 0, 'Start 0', 'stage3_startzone', 'player', 1, 350),
+('surf_concretejungle', 3, 3, 2, 5383, -177, 7823, 6889, 1569, 8433, 0, 0, 0, 'Start 0', 'stage4_startzone', 'player', 1, 350),
+('surf_concretejungle', 4, 3, 3, -6009, 13759, 6863, -5239, 15041, 7473, 0, 0, 0, 'Start 0', 'stage5_startzone', 'player', 1, 350),
+('surf_concretejungle', 5, 3, 4, -9081, 13407, 8303, -7767, 14177, 8913, 0, 0, 0, 'Start 0', 'stage6_startzone', 'player', 1, 350),
+('surf_concretejungle', 6, 2, 0, -6233, -10065, 4847, -4663, -9136, 5453, 0, 0, 0, 'Start 0', 'map_end', 'player', 1, 350),
+('surf_concretejungle', 7, 1, 1, -5289, -3073, 11631, -3831, -1599, 12433, 0, 0, 1, 'Bonus 1', 'bonus1_startzone', 'player', 1, 350),
+('surf_concretejungle', 8, 2, 1, -9965.07, -8596, 8751, -7955, -6585.94, 9521, 0, 0, 1, 'Bonus 1', 'bonus1_endzone', 'player', 1, 350),
+('surf_concretejungle', 9, 1, 1, 2375, 815, 11135, 3833, 2305, 11937, 0, 0, 2, 'Bonus 2', 'bonus2_startzone', 'player', 1, 350),
+('surf_concretejungle', 10, 2, 1, 6376, 11328, 8111, 7656, 12288, 8272, 0, 0, 2, 'Bonus 2', 'bonus2_endzone', 'player', 1, 350),
+('surf_concretejungle', 11, 1, 1, -10689, 8575, 9039, -9719, 9505, 9841, 0, 0, 3, 'Bonus 3', 'bonus3_startzone', 'player', 1, 350),
+('surf_concretejungle', 12, 2, 1, 360, -10656, 7023, 904, -9344, 7473, 0, 0, 3, 'Bonus 3', 'bonus3_endzone', 'player', 1, 350),
+('surf_concretejungle', 13, 1, 1, 6327, -10241, 9503, 7785, -8751, 10305, 0, 0, 4, 'Bonus 4', 'bonus4_startzone', 'player', 1, 350),
+('surf_concretejungle', 14, 2, 1, 8072, 11263, 6639, 8681, 12161, 6929, 0, 0, 4, 'Bonus 4', 'bonus4_endzone', 'player', 1, 350),
+('surf_concretejungle', 15, 1, 1, -7321, 13407, 8303, -6007, 14177, 9105, 0, 0, 5, 'Bonus 5', 'bonus5_startzone', 'player', 1, 350),
+('surf_concretejungle', 16, 2, 1, 4488, -14049, 6959, 8073, -11520, 7473, 0, 0, 5, 'Bonus 5', 'bonus5_endzone', 'player', 1, 350);

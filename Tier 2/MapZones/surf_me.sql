@@ -1,0 +1,15 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_me', 0, 1, 0, -12398.9, -2560.53, -959.969, -13677.5, -3583.18, -681.916, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_me', 1, 1, 0, -10304.3, -10960.3, 14848, -10800, -11470.8, 15076.7, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_me', 2, 1, 0, -1632.34, 12287.6, -6015.97, -2015.1, 11520, -5788.74, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_me', 3, 1, 0, -10368.5, 4351.67, 16071, -10879.9, 3840.19, 15871, 0, 0, 3, 'Bonus 3', 'None', 'player', 1, 350),
+('surf_me', 4, 1, 0, 11455.7, -5631.79, 4728.03, 10944.2, -5120.26, 4528.03, 0, 0, 4, 'Bonus 4', 'None', 'player', 1, 350),
+('surf_me', 5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'Start 0', 'stage5_end', 'player', 1, 350),
+('surf_me', 6, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'Start 0', 'stage2_start', 'player', 1, 350),
+('surf_me', 7, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'Start 0', 'stage3_start', 'player', 1, 350),
+('surf_me', 8, 3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'Start 0', 'stage4_start', 'player', 1, 350),
+('surf_me', 9, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'Start 0', 'stage5_start', 'player', 1, 350),
+('surf_me', 10, 2, 1, 3007.5, -11728.5, 13151, 3505, -10703.5, 13473, 0, 0, 1, 'Bonus 1', 'bonus1_end', 'player', 1, 350),
+('surf_me', 11, 2, 1, 8383, 10751, -12865, 9185, 13057, -12319, 0, 0, 2, 'Bonus 2', 'bonus2_end', 'player', 1, 350),
+('surf_me', 12, 2, 1, -11777, 2942.99, 8255, -9470.99, 5249, 8942.46, 0, 0, 3, 'Bonus 3', 'bonus3_end', 'player', 1, 350),
+('surf_me', 13, 2, 1, 9215, -7393, -1473, 13185, -3423, -1151, 0, 0, 4, 'Bonus 4', 'bonus4_end', 'player', 1, 350);

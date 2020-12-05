@@ -1,0 +1,15 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_happyhands5', 0, 1, 0, -2592.71, 719.306, 463.031, -2910.74, 81.1648, 192.031, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_happyhands5', 1, 4, 0, 5024.31, 4862.97, -2841.48, 5235.46, 4543.66, -3166.97, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_happyhands5', 2, 4, 1, -1661.79, 4097.07, -3825.72, -1631.61, 3579.33, -4097.06, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_happyhands5', 3, 4, 2, 2337.03, 2310.52, -5902.25, 3613.47, 3135.97, -5729.75, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_happyhands5', 4, 4, 3, -11578.9, 2337.03, -6972.36, -10817, 3099.21, -7308.87, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_happyhands5', 5, 4, 4, 2564.41, 2080.03, -8192.63, 2676.33, 3354.57, -8703.97, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_happyhands5', 6, 2, 0, 15746.1, 2419.78, -9695.97, 16027.7, 3024.72, -9695.97, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_happyhands5', 7, 2, 1, 15747, 2095, -10305, 16289, 3345, -9215, 0, 0, 0, 'Start 0', 'endzone_map', 'player', 1, 350),
+('surf_happyhands5', 8, 1, 0, 10688, 8288.88, 14560.8, 10432.8, 8847.03, 14813.3, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_happyhands5', 9, 2, 0, 14690.3, -2113.82, 5921.03, 15455, -4158.19, 6270, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_happyhands5', 10, 1, 0, -12056, 13936.2, 2304.85, -11993.2, 13999.6, 2177.03, 0, 0, 3, 'Bonus 3', 'None', 'player', 1, 350),
+('surf_happyhands5', 11, 2, 0, -14082.2, 13983, 3520.9, -14975, 13441.6, 3840.12, 0, 0, 3, 'Bonus 3', 'None', 'player', 1, 350),
+('surf_happyhands5', 12, 2, 2, 15072, 8384, 9863, 15329, 9024, 10449, 0, 0, 1, 'Bonus 1', 'endzone_bonus_notbeginner', 'player', 1, 350),
+('surf_happyhands5', 13, 1, 1, 7007, -3521, 6879, 7905, -2751, 7137, 0, 0, 2, 'Bonus 2', 'startzone_bonus2_vay', 'player', 1, 350);

@@ -1,0 +1,15 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_neoteric', 0, 1, 0, -11332, 9215.53, 15053.6, -12348.4, 8896.76, 14849, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_neoteric', 1, 3, 0, -4733.86, 13630.7, 13761, -3457.03, 13121.7, 14035.9, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_neoteric', 2, 3, 1, -65.0696, 13630.1, 14465, -574.969, 10689.2, 14686.8, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_neoteric', 3, 3, 2, 4863.82, 2814.69, 7809.03, 4353.31, 1793.03, 8058.23, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_neoteric', 4, 3, 3, 2496.77, -10367.1, 13121, 3006.97, -8321.41, 13378.6, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_neoteric', 5, 2, 0, -14847, 767.008, 12464.2, -10753, 258.775, 12688.6, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_neoteric', 6, 2, 0, 817.382, 9598.74, 11057, 1839.04, 9073.03, 11215.6, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_neoteric', 7, 1, 0, -10751, 3071.37, 6416.33, -9729.03, 2562.65, 6653.63, 0, 0, 3, 'Bonus 3', 'None', 'player', 1, 350),
+('surf_neoteric', 8, 2, 0, -11773, -2.2798, 2113.03, -8707.99, -1562.94, 2266.72, 0, 0, 3, 'Bonus 3', 'None', 'player', 1, 350),
+('surf_neoteric', 9, 1, 0, -14848.9, -7680.6, -7166.97, -15359, -8703.39, -6879.94, 0, 0, 4, 'Bonus 4', 'None', 'player', 1, 350),
+('surf_neoteric', 10, 2, 0, 13762.5, -8703.23, -142.969, 14783, -7681.03, 111.789, 0, 0, 4, 'Bonus 4', 'None', 'player', 1, 350),
+('surf_neoteric', 11, 2, 2, -6433, -11009, 13183, -4771, -7679, 14209, 0, 0, 0, 'Start 0', 'end', 'player', 1, 350),
+('surf_neoteric', 12, 1, 0, -13823.1, -3263.12, 13918, -11777.3, -2816.27, 13505, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_neoteric', 13, 1, 1, 1167, 12543, 11343, 1489, 12897, 11537, 0, 0, 2, 'Bonus 2', 'start_bSync', 'player', 1, 350);

@@ -1,0 +1,16 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_illumination2', 0, 1, 0, 3678.4, 6686.85, 15775, 2880.58, 5600.99, 15361, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_illumination2', 1, 3, 0, -15967.1, 12673.5, 16005, -15105.1, 13951, 15616.7, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_illumination2', 2, 3, 1, -2080.81, 7806.49, -813.969, -4062.62, 6528.81, -1278.97, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_illumination2', 3, 3, 2, -15582.9, 12801.3, -811.969, -14457.3, 13823.1, -1151.97, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_illumination2', 4, 3, 3, -6656.69, 2017.35, -201.031, -7454.74, 3102.66, -542.969, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_illumination2', 5, 3, 4, -15647, 929.322, 15150.8, -15137.1, 2143.24, 14913, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_illumination2', 6, 2, 0, 15068, -11649.6, 8737.03, 14434, -12926.7, 9534.03, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_illumination2', 7, 8, 0, 13285.9, -8882.71, -4852.03, 14941.1, -8709.55, -3791.97, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_illumination2', 8, 8, 1, 13280.1, -7488.03, -4943.89, 14940.6, -7675.08, -3891.97, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_illumination2', 9, 2, 4, 7680, 992, 12191, 9281, 2080, 12577, 0, 0, 0, 'Start 0', 's6_endzone', 'player', 1, 350),
+('surf_illumination2', 10, 1, 0, 4702.7, -13566.9, 13120, 3489.01, -11009.2, 13501, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_illumination2', 11, 1, 0, 14658.3, -7489.67, -4334.8, 15358.9, -8894.97, -3904.97, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_illumination2', 12, 2, 1, -10721, -8735.99, -2433, -10048, -7647.99, -2047, 0, 0, 2, 'Bonus 2', 'b2_endzone', 'player', 1, 350),
+('surf_illumination2', 13, 2, 1, 5120, -6688, 4383, 6017, -5600, 4769, 0, 0, 3, 'Bonus 3', 'b3_endzone', 'player', 1, 350),
+('surf_illumination2', 14, 1, 0, -10049.5, -6559.2, 9210.03, -10527, -5728.93, 8960.03, 0, 0, 3, 'Bonus 3', 'None', 'player', 1, 350);

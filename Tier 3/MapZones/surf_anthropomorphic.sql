@@ -1,0 +1,15 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_anthropomorphic', 0, 1, 1, -6947.36, -5892.32, 4363.97, -7426.73, -5408.45, 4032.03, 0, 0, 0, 'Start 0', 'None', 'player', 1, 0),
+('surf_anthropomorphic', 1, 3, 0, -4024.05, -8587.97, -72.7389, -4470.58, -8302.09, 107.031, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_anthropomorphic', 2, 3, 1, -7737.04, -8542.19, 2029.03, -7482.79, -8287.82, 2570.03, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_anthropomorphic', 3, 3, 2, -2782.03, -135.566, -10440.4, -3307.92, 86.9687, -10290.4, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_anthropomorphic', 4, 3, 3, -1564.34, -2370.12, -85.9688, -673.451, -3616.04, -343.885, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_anthropomorphic', 5, 3, 4, 8209.04, -5102.97, -8495.25, 9215.05, -4130.92, -8208.08, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_anthropomorphic', 6, 3, 5, 1641.94, -12011.5, -4511.97, 1179.91, -11550.8, -4711.97, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_anthropomorphic', 7, 3, 6, -10595, -10788.4, -5320.97, -10793, -10570.5, -5501.53, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_anthropomorphic', 8, 2, 0, 2695.78, -858.06, -2405.97, 2026.91, -1901.15, -2072.49, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_anthropomorphic', 9, 3, 7, -1090.09, -10146, 3615.03, -733.317, -9969.33, 4074.03, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_anthropomorphic', 10, 3, 8, 1540.55, -8998.44, -2046.97, 3183.29, -8539.03, -1906.88, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_anthropomorphic', 11, 1, 0, 5448.03, -6200.58, -2069.82, 6429.97, -6081.58, -1843.82, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_anthropomorphic', 12, 2, 0, 5447.03, -6081.16, -3177.18, 6454.97, -6232.77, -3187.57, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_anthropomorphic', 13, 6, 0, 5447.03, -6111.79, -3278.35, 6454.97, -6329.9, -3358.13, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350);

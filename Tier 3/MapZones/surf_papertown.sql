@@ -1,0 +1,17 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_papertown', 0, 1, 0, -12097.4, 255.043, 250.031, -12478.2, -767.531, 0.03125, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_papertown', 1, 4, 0, -8449.22, 7997.57, -2175.97, -8378.58, 7136.03, -673.143, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_papertown', 2, 4, 1, -6272.17, 9087.97, -2941.8, -6318.55, 7488.03, -2305.96, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_papertown', 3, 2, 0, 9887, 4159, -6369, 13665, 7777, -5631, 0, 0, 0, 'Start 0', 'end_main', 'player', 1, 350),
+('surf_papertown', 4, 1, 0, -12700.5, -1216.87, -567.969, -13029.9, -1598.41, -767.969, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_papertown', 5, 2, 1, -14365, -1817, -681, -14307, -1759, -583, 0, 0, 1, 'Bonus 1', 'end_collectableE', 'player', 1, 350),
+('surf_papertown', 6, 1, 0, -13546.6, -1536.79, -567.969, -14015.7, -2046.65, -767.969, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_papertown', 7, 2, 1, -14365, -1937, -681, -14307, -1879, -583, 0, 0, 2, 'Bonus 2', 'end_collectableM', 'player', 1, 350),
+('surf_papertown', 8, 1, 0, -14273.1, -1365.77, -567.969, -14782.8, -938.62, -767.969, 0, 0, 3, 'Bonus 3', 'None', 'player', 1, 350),
+('surf_papertown', 9, 2, 1, -14365, -2057, -681, -14307, -1999, -583, 0, 0, 3, 'Bonus 3', 'end_collectableH', 'player', 1, 350),
+('surf_papertown', 10, 1, 0, 5743.36, -8574.86, 14812, 4401.06, -8001.13, 14512, 0, 0, 4, 'Bonus 4', 'None', 'player', 1, 350),
+('surf_papertown', 11, 2, 0, -2434.07, -13902.9, 9710.03, -3198.89, -12289.1, 9008.03, 0, 0, 4, 'Bonus 4', 'None', 'player', 1, 350),
+('surf_papertown', 12, 1, 0, -12161.8, -11393.2, 14828, -12542.4, -12158.8, 14528, 0, 0, 5, 'Bonus 5', 'None', 'player', 1, 350),
+('surf_papertown', 13, 2, 0, -7934.03, -10752.8, 14239, -7553.82, -11519, 13920, 0, 0, 5, 'Bonus 5', 'None', 'player', 1, 350),
+('surf_papertown', 14, 8, 0, -5792.85, 3519.97, -1661.84, -5823.07, 3392.03, -1472.95, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_papertown', 15, 7, 0, -7230.15, 2492.53, 200.031, -6850.56, 2113.51, 0.03125, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350);

@@ -1,0 +1,16 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_castlewalls', 0, 1, 0, -2.60461, 286.969, 66.3597, -511.353, -286.035, 228.884, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_castlewalls', 1, 3, 0, -3073.52, -2846.4, 4407.97, -3583.17, -2273.65, 4224.92, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_castlewalls', 2, 3, 1, 9726.97, -7967.02, 8608.91, 9232.17, -7393.03, 8768.01, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_castlewalls', 3, 3, 2, -513.401, 3679.23, -3139.03, -1022.61, 3104.7, -3295.11, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_castlewalls', 4, 3, 3, -13377.5, 1310.5, 16062, -13887.6, 736.988, 15872.8, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_castlewalls', 5, 3, 4, -9216.73, -7905.83, -65.0312, -9727.46, -8478.32, -255.174, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_castlewalls', 6, 2, 0, -3758.13, -8639.87, -7726.97, -3585.03, -7744.58, -7425.59, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_castlewalls', 7, 1, 0, -3377.69, 12313.2, 2049.03, -4398.84, 12727, 2202.15, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_castlewalls', 8, 2, 0, -4093.18, 11789.8, -671.969, -3682.37, 11001, -413.478, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_castlewalls', 9, 2, 1, -3988.85, 11873.6, -671.969, -3785.27, 11841.4, -413.597, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_castlewalls', 10, 2, 2, -4042.48, 11841, -671.969, -3730.1, 11790, -413.206, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_castlewalls', 11, 1, 0, -8176.8, 12697.5, 1889.03, -9199.26, 13111, 2043.21, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_castlewalls', 12, 2, 0, -8486.25, 12319, -895.969, -8888.89, 13111, -769.51, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_castlewalls', 13, 2, 1, -8572.44, 12246, -895.969, -8804.49, 12276, -770.063, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_castlewalls', 14, 2, 2, -8529.94, 12276.4, -895.969, -8848.54, 12319, -769.633, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350);

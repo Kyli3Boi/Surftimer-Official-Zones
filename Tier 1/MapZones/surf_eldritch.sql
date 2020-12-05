@@ -1,0 +1,4 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_eldritch', 0, 1, 0, -1022.97, 511.406, 64.35, 1023.7, -510.969, 398.847, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_eldritch', 1, 3, 0, 9728.74, 319.485, -5412.46, 10751.9, -704.071, -5695.97, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_eldritch', 2, 2, 0, 3967.97, -8699.04, -11768.2, 1920.03, -7682.12, -11262.9, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350);

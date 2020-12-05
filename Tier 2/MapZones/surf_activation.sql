@@ -1,0 +1,15 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_activation', 0, 1, 0, -8064.13, 11775.7, 14848, -8831.97, 10758, 15105.1, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_activation', 1, 4, 0, 3553, 9855.62, 3904.03, 3579.95, 8576.03, 4735, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_activation', 2, 4, 1, 394.599, -3743.88, 15264, 384.031, -2454.3, 16108.8, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_activation', 3, 4, 2, 5184.18, -13567.7, -1759.97, 6719.82, -13529.8, -800.031, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_activation', 4, 2, 0, 5184.03, 5856.07, -14144, 6719.97, 6378.57, -12963.8, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_activation', 5, 1, 0, -13471.8, -8448.2, 15168, -12000, -8927.11, 15551.8, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_activation', 6, 2, 0, -12000.2, -8832.11, 14816, -13472, -9340.7, 15133.8, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_activation', 7, 1, 0, -6560.06, 2144.13, 8352.03, -7071.97, 2590.3, 8790.44, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_activation', 8, 2, 0, -8352.19, 3775.94, 6912.03, -9055.97, 2628.57, 7519.52, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_activation', 9, 2, 1, -5279.54, 2624.45, 6912.03, -4579.14, 3775.97, 7516.72, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_activation', 10, 1, 0, -15552.5, 14847.6, -12288, -15935.8, 13888, -11929.8, 0, 0, 3, 'Bonus 3', 'None', 'player', 1, 350),
+('surf_activation', 11, 2, 0, -448.29, 12416.4, -14144, -1023.97, 12990.2, -13890.1, 0, 0, 3, 'Bonus 3', 'None', 'player', 1, 350),
+('surf_activation', 12, 1, 0, -11936.3, -3104.38, 4576.03, -12445.3, -3999.97, 5074.88, 0, 0, 4, 'Bonus 4', 'None', 'player', 1, 350),
+('surf_activation', 13, 2, 0, 31.6392, -6111.74, 2016.03, -991.188, -997.031, 3035.46, 0, 0, 4, 'Bonus 4', 'None', 'player', 1, 350);

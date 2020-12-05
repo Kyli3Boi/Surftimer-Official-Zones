@@ -1,0 +1,18 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_sluice_final', 0, 1, 0, -6654.97, -13726.7, 15248, -5377.47, -13377.2, 14848, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_sluice_final', 1, 4, 0, -8448.31, 2784.03, 11263.5, -10240, 4575.25, 11128.7, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_sluice_final', 2, 4, 1, 2048.03, 4704.16, 8959.29, 3839.03, 4958.53, 8192.03, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_sluice_final', 3, 4, 2, -5855.97, 4320.18, 3839.27, -4128.03, 4830.97, 5119.58, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_sluice_final', 4, 4, 3, 1984.03, -2385.07, -514.18, 3774.66, -2559.6, -2559.97, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_sluice_final', 5, 4, 4, -2080.03, 12285.9, -4.26393, -3071.97, 12355.2, -2046.71, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_sluice_final', 6, 2, 0, 9760.82, -14462.5, 1631.03, 11103, -13441, 864.031, 0, 0, 0, 'Start 0', 'None', 'player', 1, 350),
+('surf_sluice_final', 7, 1, 0, -11489, 15615, -6049.97, -12510.7, 14881.2, -6399.97, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_sluice_final', 8, 2, 0, -12382.6, 2015.08, -7424.97, -11617.5, 1761.38, -7967.97, 0, 0, 1, 'Bonus 1', 'None', 'player', 1, 350),
+('surf_sluice_final', 9, 1, 0, -9727.27, -1024.86, -6145.97, -9472.97, -2302.96, -6495.97, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_sluice_final', 10, 2, 0, -4353.07, -1473.66, -9548, -4478.81, -1854.54, -10048, 0, 0, 2, 'Bonus 2', 'None', 'player', 1, 350),
+('surf_sluice_final', 11, 1, 0, -13184.7, -510.86, -7249.97, -14590.6, -0.968708, -7599.97, 0, 0, 3, 'Bonus 3', 'None', 'player', 1, 350),
+('surf_sluice_final', 12, 2, 0, -13633.4, -15295.4, -10958, -14142.9, -15041.5, -11408, 0, 0, 3, 'Bonus 3', 'None', 'player', 1, 350),
+('surf_sluice_final', 13, 1, 0, -2287.25, 5954.08, -6433.97, -1520.25, 6928.53, -6783.97, 0, 0, 4, 'Bonus 4', 'None', 'player', 1, 350),
+('surf_sluice_final', 14, 2, 0, -3054.94, -7375.71, -13074, -753.068, -7869.37, -13824, 0, 0, 4, 'Bonus 4', 'None', 'player', 1, 350),
+('surf_sluice_final', 15, 1, 0, 8496.87, 5055.04, -9963, 7699.34, 6332.69, -10208, 0, 0, 5, 'Bonus 5', 'None', 'player', 1, 350),
+('surf_sluice_final', 16, 2, 0, 9798.85, 1123.6, -12950, 7817.09, 634.917, -13800, 0, 0, 5, 'Bonus 5', 'None', 'player', 1, 350);

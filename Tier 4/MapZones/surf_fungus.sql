@@ -1,0 +1,17 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_fungus', 0, 1, 0, -1921, 12895, 7239, -1023, 13665, 7681, 0, 0, 0, 'Start 0', 'map_startzone', 'player', 1, 350),
+('surf_fungus', 1, 4, 0, -1601, 6175, 10079, -1535, 9441, 12001, 0, 0, 0, 'Start 0', 'map_checkpoint1', 'player', 1, 350),
+('surf_fungus', 2, 4, 1, -14689, 3567, 4351, -14623, 5617, 4737, 0, 0, 0, 'Start 0', 'map_checkpoint2', 'player', 1, 350),
+('surf_fungus', 3, 4, 2, -1537, 4047, 3071, -1407, 5137, 3585, 0, 0, 0, 'Start 0', 'map_checkpoint3', 'player', 1, 350),
+('surf_fungus', 4, 4, 3, 8447, 11871, 7903, 9121, 13921, 7937, 0, 0, 0, 'Start 0', 'map_checkpoint4', 'player', 1, 350),
+('surf_fungus', 5, 2, 0, 3199, 10335, 11135, 4095, 15457, 12257, 0, 0, 0, 'Start 0', 'map_endzone', 'player', 1, 350),
+('surf_fungus', 6, 1, 1, 4367, -5497, 15807, 4721, -3063, 16129, 0, 0, 1, 'Bonus 1', 'bonus1_startzone', 'player', 1, 350),
+('surf_fungus', 7, 2, 1, -9727, -5817, 11615, -8399, -2743, 13209, 0, 0, 1, 'Bonus 1', 'bonus1_endzone', 'player', 1, 350),
+('surf_fungus', 8, 1, 1, -14769, 12967, 975, -14447, 13657, 1281, 0, 0, 2, 'Bonus 2', 'bonus2_startzone', 'player', 1, 350),
+('surf_fungus', 9, 2, 1, -7631, 13215, -2321, -7375, 13409, -1999, 0, 0, 2, 'Bonus 2', 'bonus2_endzone', 'player', 1, 350),
+('surf_fungus', 10, 1, 1, -9185, 14911, 15871, -8287, 15809, 16033, 0, 0, 3, 'Bonus 3', 'bonus3_startzone', 'player', 1, 350),
+('surf_fungus', 11, 2, 1, -16289, 15183, 15935, -13215, 15537, 16001, 0, 0, 3, 'Bonus 3', 'bonus3_endzone', 'player', 1, 350),
+('surf_fungus', 12, 1, 1, -15757, 7343, 14207, -14899, 7601, 14657, 0, 0, 4, 'Bonus 4', 'bonus4_startzone', 'player', 1, 350),
+('surf_fungus', 13, 2, 1, -15583, 9247, 12399, -15073, 9519, 12913, 0, 0, 4, 'Bonus 4', 'bonus4_endzone', 'player', 1, 350),
+('surf_fungus', 14, 1, 1, 255, -10913, -9425, 1281, -9887, -9039, 0, 0, 5, 'Bonus 5', 'bonus5_startzone', 'player', 1, 350),
+('surf_fungus', 15, 2, 1, 10943, -9601, -10497, 14145, -8833, -8831, 0, 0, 5, 'Bonus 5', 'bonus5_endzone', 'player', 1, 350);
