@@ -1,0 +1,16 @@
+INSERT INTO `ck_zones` (`mapname`, `zoneid`, `zonetype`, `zonetypeid`, `pointa_x`, `pointa_y`, `pointa_z`, `pointb_x`, `pointb_y`, `pointb_z`, `vis`, `team`, `zonegroup`, `zonename`, `hookname`, `targetname`, `onejumplimit`, `prespeed`) VALUES
+('surf_ebony', 0, 1, 0, -5169, -4657, 15279, -4751, -3759, 15569, 0, 0, 0, 'Start 0', 'map_startzone', 'player', 1, 350),
+('surf_ebony', 1, 4, 0, 13615, -6673, 15471, 13649, -5775, 15793, 0, 0, 0, 'Start 0', 'cp1', 'player', 1, 350),
+('surf_ebony', 2, 4, 1, 4735, 11631, 13983, 4769, 12913, 14721, 0, 0, 0, 'Start 0', 'cp2', 'player', 1, 350),
+('surf_ebony', 3, 4, 2, -6273, -6657, 1455, -3199, -6623, 4161, 0, 0, 0, 'Start 0', 'cp3', 'player', 1, 350),
+('surf_ebony', 4, 4, 3, 12479, -13249, 7295, 12609, -8511, 9537, 0, 0, 0, 'Start 0', 'cp4', 'player', 1, 350),
+('surf_ebony', 5, 4, 4, 4863, 1855, 7487, 4929, 5569, 9345, 0, 0, 0, 'Start 0', 'cp5', 'player', 1, 350),
+('surf_ebony', 6, 2, 0, -15681, 2496, 10111, -13056, 4928, 11257, 0, 0, 0, 'Start 0', 'map_endzone', 'player', 1, 350),
+('surf_ebony', 7, 1, 1, -11649, 14447, 9851, -11199, 14753, 10049, 0, 0, 1, 'Bonus 1', 'donk_bonus_start', 'player', 1, 350),
+('surf_ebony', 8, 2, 1, -11905, 11727, 8123, -10943, 12208, 8545, 0, 0, 1, 'Bonus 1', 'donk_bonus_end', 'player', 1, 350),
+('surf_ebony', 9, 1, 1, -11297, 9247, -2257, -10687, 10209, -1947, 0, 0, 2, 'Bonus 2', 'egg_bone_startzone', 'player', 1, 350),
+('surf_ebony', 10, 2, 1, -9376, 9247, 1583, -8575, 10209, 1841, 0, 0, 2, 'Bonus 2', 'egg_bone_endzone', 'player', 1, 350),
+('surf_ebony', 11, 1, 1, -7233, -6656.73, 11615, -6526.3, -6014.73, 11873, 0, 0, 3, 'Bonus 3', 'zombstartzone', 'player', 1, 350),
+('surf_ebony', 12, 2, 1, 1887.75, -128, 9119, 4705.75, 609.272, 9513, 0, 0, 3, 'Bonus 3', 'zombendzone', 'player', 1, 350),
+('surf_ebony', 13, 1, 1, -7186.7, 7986.94, 9563.22, -6480, 8884.94, 9821.22, 0, 0, 4, 'Bonus 4', 'sidstartzone', 'player', 1, 350),
+('surf_ebony', 14, 2, 1, 14703, 7698.94, 8703, 15184, 9172.94, 8929, 0, 0, 4, 'Bonus 4', 'sidendzone', 'player', 1, 350);
