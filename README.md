@@ -11,7 +11,7 @@
 <h4> How to use </h4>
 <ul>
 <li> <b> You will need the zones file as well as the corresponding map tier file </b> 
-<li> There are a few maps (probably 3) that will require our stripper file in order to work correctly. I cant tell you which maps these are as i simply do not remember. 
+<li> There are a few maps (probably 3) that will require our stripper file in order to work correctly. I cant tell you which maps these are as i simply do not remember. You can find our stripper config files <a href="https://github.com/Kyli3Boi/Surftimer-Official-Stripper-Config">here</a>
 <li> If using phpMyAdmin Simply drag and drop the file you wish to use into your database.
 <li> If using another database administration tool/method then you will need to figure out how to import them.
 </ul>
