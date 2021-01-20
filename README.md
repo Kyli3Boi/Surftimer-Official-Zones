@@ -4,6 +4,7 @@
 <ul>
 <li> My zones use 350 speed for all zones unless there is a case where you need to be able to go through the zone with no speed cap.
 <li> If you do not use 350 speed but rather 250/260 speed for start zones etc then you will need to modify the files to suite your server (I would still recommend you leave stage zones at 350 speed as this gives a smoother player experience)
+<li> I <b>DO NOT</b> recommed using these zones on any maps that you already have player times on unless you remove all the times for those maps.
 <li> <b>These zones have been made with the "new" database structure of Surftimer (post version 285).</b>
 </ul>
 
